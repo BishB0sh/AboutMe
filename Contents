@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <Title>CSS Link Practice></title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+
+    <section>   
+        <header>
+            <img class="logo" src="images/Lightbulb Icon.gif" width="50">
+            
+                <a class="btnnorm" href="index.html">Home</a>
+                <a class="btnnorm"href="about.html">About</a>
+                <a class="btnnorm"href="contact.html">Contact</a>
+                <a class="btn4" href="underline.html">Underline</a>
+        
+        </header>
+
+    </section>
+        <body>
+            <h1>Heading 1</h1>
+            <img class="img" src="images/Your Ideas Matter 3.gif" width="200">
+
+        <div class=allbtns>
+
+            <h2>Different Types of Buttons</h2>
+
+            <p>The background user here  uses the CSS bacgkround: rgba (red, green, blue, alpha).</p>
+
+
+            <button class="moveup">Move Up</button><br><br>
+            <button class="shrink">Basic 1</button><br><br>	
+            <button class="expansion">Basic 2</button><br><br>
+            <button class="moveup2">Move Up 2</button><br><br>
+
+            <button id="btn">
+                Result 
+                <span>New result</span>
+            </button>
+            <button id="btn">
+                Result
+                <span>Different</span>
+            <button id="btn">
+                Home
+            <span><img class="logo" src="images/Lightbulb Icon.gif" width="10">Think</span>
+            </button>
+
+        </div>
+        <h2>Underlines</h2>
+
+        <div class=underlines>
+
+      
+            <ul>
+                <li>
+                  <a class = underlinetxt href="#0">Underline 1</a>
+                </li>
+                <li>
+                  <a class = underlinetxt href="#0">Underline 2</a>
+                </li>
+                <li>
+                  <a class = underlinetxt href="#0">Underline 3</a>
+                </li>
+              </ul>
+        
+        </div>
+
+
+
+
+    </section>
+</body>
+<body>
+            <h3>Heading 3</h3>
+            <div class=maintxt>
+            <p>This is an example page for CSS, this shows the what the p tag looks like.</p> 
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec condimentum elit vel auctor interdum. 
+                Phasellus sit amet eros velit. Sed mauris magna, accumsan ac ipsum in, egestas blandit libero. Donec in justo lorem. Vestibulum convallis velit vitae vulputate placerat. 
+                Phasellus ut eleifend velit, vitae dapibus dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum vulputate sodales mollis. 
+                Ut molestie ante est, eu sodales enim elementum vel. Aenean urna odio, lacinia porttitor semper ac, luctus vitae dui. Curabitur est mi, ullamcorper vitae dignissim fermentum, semper non elit.</p>
+
+            <p>Nulla tempor tempus orci, et scelerisque lorem. Nunc placerat feugiat dapibus. Aliquam vestibulum finibus leo, ac pharetra nunc placerat nec. 
+                Proin et ex molestie, laoreet arcu et, ullamcorper justo. Curabitur elementum sodales nibh, et posuere velit. Donec ultrices rutrum iaculis. 
+                Maecenas non metus tellus. Phasellus in vestibulum purus, non lacinia augue. Phasellus blandit diam sit amet magna tincidunt, sit amet gravida diam maximus. 
+                Cras nisi magna, cursus sit amet iaculis non, imperdiet nec sapien. Morbi mollis malesuada lectus, auctor maximus ante tempus eu. Nulla et maximus tellus.</p>
+
+            <p>Sed id dictum elit. Nam et ante quis nisi suscipit porta id at purus. Mauris id lacus posuere, lobortis odio sed, rutrum est. 
+                Suspendisse quam risus, volutpat a fringilla imperdiet, tempor sed ante. Curabitur pulvinar mattis nisi. Quisque quis fermentum ipsum, vitae dictum quam. Aenean pretium ullamcorper felis eu rhoncus. 
+                Suspendisse tempor arcu in purus consectetur pharetra. Quisque dictum viverra commodo. Donec accumsan scelerisque metus in malesuada. 
+                Praesent sagittis ipsum nulla, eu elementum eros ornare vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+                Duis egestas mollis magna ut eleifend. Nunc sagittis turpis eu nulla pretium, vel auctor eros hendrerit. Fusce turpis ipsum, laoreet id congue sed, ultricies eget nisl.
+                Donec orci tellus, hendrerit eu tempus in, consequat vel leo. Vestibulum eleifend venenatis rhoncus. Duis sagittis non augue tempor porta. Aenean egestas ante vitae leo viverra, non ultrices ipsum lobortis. 
+                Fusce porta vel magna ac malesuada. Donec vel ipsum non lectus vulputate sodales non vitae dui. Etiam et nisl viverra, dignissim lectus in, volutpat dui. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                Ut facilisis ligula nec leo commodo dapibus. Nam sit amet mauris nec sem commodo consectetur tincidunt ut enim. Morbi rhoncus, sapien in dignissim vestibulum, sapien massa hendrerit odio, quis consequat turpis sapien in lectus. Aliquam erat volutpat. Donec vel velit sit amet nibh rhoncus vehicula quis eget nunc. 
+                In hac habitasse platea dictumst. Etiam aliquam tempor lectus, eget tristique nisi placerat lobortis. Vivamus ac ultricies mi. Vestibulum consectetur eu neque non consequat.</p>
+            </div>
+
+        </body>
+
+
+</html>
